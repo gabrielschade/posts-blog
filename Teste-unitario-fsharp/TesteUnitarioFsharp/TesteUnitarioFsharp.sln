@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteUnitarioFsharp.Teste.C
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TesteUnitarioFsharp.Testes", "TesteUnitarioFsharp.Testes\TesteUnitarioFsharp.Testes.fsproj", "{B0C0FFAC-7BE4-4A0D-8AAE-75C9670FF3FE}"
 EndProject
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "CalculoGit", "CalculoSalario\CalculoGit.fsproj", "{EC680D5F-014F-4DF3-9B7B-AA18D0880EA6}"
+EndProject
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "CalculoGit.Testes", "CalculoGit.Testes\CalculoGit.Testes.fsproj", "{85C29E85-440F-482F-81D1-000F0B583F9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{B0C0FFAC-7BE4-4A0D-8AAE-75C9670FF3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0C0FFAC-7BE4-4A0D-8AAE-75C9670FF3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0C0FFAC-7BE4-4A0D-8AAE-75C9670FF3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC680D5F-014F-4DF3-9B7B-AA18D0880EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC680D5F-014F-4DF3-9B7B-AA18D0880EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC680D5F-014F-4DF3-9B7B-AA18D0880EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC680D5F-014F-4DF3-9B7B-AA18D0880EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C29E85-440F-482F-81D1-000F0B583F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C29E85-440F-482F-81D1-000F0B583F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C29E85-440F-482F-81D1-000F0B583F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C29E85-440F-482F-81D1-000F0B583F9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
