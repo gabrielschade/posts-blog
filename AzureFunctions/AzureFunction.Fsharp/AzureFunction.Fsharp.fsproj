@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AzureFunctionsVersion>v2</AzureFunctionsVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Function1.fs" />
+    <Content Include="host.json" />
+    <Content Include="local.settings.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FSharp.Data" Version="3.1.1" />
+    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="1.0.24" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="host.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="local.settings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>Never</CopyToPublishDirectory>
+    </None>
+  </ItemGroup>
+</Project>
