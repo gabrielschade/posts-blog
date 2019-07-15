@@ -1,0 +1,10 @@
+D:\Documentos\GitHub\posts-blog\StrangerThings\StrangerThings.Fsharp\bin\Debug\netcoreapp2.1\StrangerThings.Fsharp.deps.json
+D:\Documentos\GitHub\posts-blog\StrangerThings\StrangerThings.Fsharp\bin\Debug\netcoreapp2.1\StrangerThings.Fsharp.runtimeconfig.json
+D:\Documentos\GitHub\posts-blog\StrangerThings\StrangerThings.Fsharp\bin\Debug\netcoreapp2.1\StrangerThings.Fsharp.runtimeconfig.dev.json
+D:\Documentos\GitHub\posts-blog\StrangerThings\StrangerThings.Fsharp\bin\Debug\netcoreapp2.1\StrangerThings.Fsharp.dll
+D:\Documentos\GitHub\posts-blog\StrangerThings\StrangerThings.Fsharp\bin\Debug\netcoreapp2.1\StrangerThings.Fsharp.pdb
+D:\Documentos\GitHub\posts-blog\StrangerThings\StrangerThings.Fsharp\obj\Debug\netcoreapp2.1\StrangerThings.Fsharp.fsprojAssemblyReference.cache
+D:\Documentos\GitHub\posts-blog\StrangerThings\StrangerThings.Fsharp\obj\Debug\netcoreapp2.1\StrangerThings.Fsharp.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\posts-blog\StrangerThings\StrangerThings.Fsharp\obj\Debug\netcoreapp2.1\StrangerThings.Fsharp.AssemblyInfo.fs
+D:\Documentos\GitHub\posts-blog\StrangerThings\StrangerThings.Fsharp\obj\Debug\netcoreapp2.1\StrangerThings.Fsharp.dll
+D:\Documentos\GitHub\posts-blog\StrangerThings\StrangerThings.Fsharp\obj\Debug\netcoreapp2.1\StrangerThings.Fsharp.pdb

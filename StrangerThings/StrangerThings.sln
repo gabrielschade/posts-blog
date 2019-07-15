@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrangerThings", "StrangerThings\StrangerThings.csproj", "{E9C4C54B-5BC7-4197-8747-BB54D2E9CD43}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "StrangerThings.Fsharp", "StrangerThings.Fsharp\StrangerThings.Fsharp.fsproj", "{5236A663-A330-409A-81F7-EA2500E7FF63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9C4C54B-5BC7-4197-8747-BB54D2E9CD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C4C54B-5BC7-4197-8747-BB54D2E9CD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C4C54B-5BC7-4197-8747-BB54D2E9CD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C4C54B-5BC7-4197-8747-BB54D2E9CD43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5236A663-A330-409A-81F7-EA2500E7FF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5236A663-A330-409A-81F7-EA2500E7FF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5236A663-A330-409A-81F7-EA2500E7FF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5236A663-A330-409A-81F7-EA2500E7FF63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BFE0CDC-F034-46D2-B764-9E9B1140C600}
+	EndGlobalSection
+EndGlobal
